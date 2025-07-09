@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Sebastian David Pino
 
+![bmo saludando](bmo.gif)
+
 <!--
 **DavidPino20/DavidPino20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
